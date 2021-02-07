@@ -1,5 +1,5 @@
 # Ciphora-HackBU
-Ciphora E2E extension to encrypt private messages - Project for HackBU 2021
+Ciphora E2E extension to encrypt private messages - Project for HackBU 2021 (Team Turing)
 
   <a href="https://github.com/andrewflik/Ciphora-HackBU">
     <span><img src="https://github.com/andrewflik/Ciphora-HackBU/blob/main/ciphora-extension/public/logo.jpeg" alt="Logo" width="400"><img src = "hhttps://github.com/andrewflik/Ciphora-HackBU/blob/main/Screenshots_Progress/graphics2.png" width = "400"/></span>
