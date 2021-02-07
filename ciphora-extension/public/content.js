@@ -1,6 +1,3 @@
-
-// yeah
-
 chrome.runtime.onMessage.addListener(request => {
     if (request.type == 'getHeadlines') {
         console.log("dadasdasdsad");
