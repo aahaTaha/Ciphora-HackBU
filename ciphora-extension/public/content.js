@@ -1,3 +1,5 @@
+// need to add more items to context menu
+
 chrome.runtime.onMessage.addListener(request => {
     if (request.type == 'getHeadlines') {
         console.log("dadasdasdsad");
